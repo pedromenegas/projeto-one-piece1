@@ -1,7 +1,7 @@
 # Projeto One Piece
 Um projeto para estudo com o tema de one piece 🧙‍♂️
 
-[<img src="./src/imagens/Animação.gif" alt= "foto do luffy">]
+<img src="./src/imagens/Animação.gif" alt= "foto do luffy">
 
 ## tecnologias utilizadas 
 - HTML
